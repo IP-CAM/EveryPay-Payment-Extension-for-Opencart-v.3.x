@@ -1,4 +1,4 @@
-# EveryPay Payment Extension for Opencart 3 and newer
+# EveryPay Payment Extension for Opencart 3
 
 ## Installation instructions
 
